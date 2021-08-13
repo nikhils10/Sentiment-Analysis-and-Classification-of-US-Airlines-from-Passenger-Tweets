@@ -5,7 +5,7 @@ We carry out sentiment analysis on tweets containing the problems of each major 
 We do exploratory data analysis, modelling to classify the tweets in positive, negative, and neutral sentiments.
 
 ## Motivation
-Wanted to apply NLP gained knowledge learnt in Coursera Course ()
+Wanted to apply NLP gained knowledge learnt in Coursera Course (Natural Language Processing in Tensorflow) on real world problem to get exposure to working with Textual data .
 
 ## Problem Type
 Sentiment Analysis and a Classification Problem solved using machine learning algorithms like Logistic Regression, Support Vector Machines, XgBOOST, Random Forests Classifier, Niave Bayes .
@@ -37,4 +37,8 @@ Link to Dataset : https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 ## Credits/Resources
 
+https://machinelearningmastery.com/what-are-word-embeddings/
+https://towardsdatascience.com/nlp-in-python-data-cleaning-6313a404a470
+https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
+https://machinelearningmastery.com/clean-text-machine-learning-python/
 
