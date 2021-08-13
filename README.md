@@ -2,7 +2,7 @@
 
 ## Project Overview 
 We carry out sentiment analysis on tweets containing the problems of each major U.S. airline. 
-We do exploratory data analysis ,modelling to classify the tweets in positive, negative, and neutral sentiments.
+We do exploratory data analysis, modelling to classify the tweets in positive, negative, and neutral sentiments.
 
 ## Motivation
 Wanted to apply NLP gained knowledge learnt in Coursera Course ()
