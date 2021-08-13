@@ -1,1 +1,1 @@
-# Sentiment-Analysis-and-Classification-of-US-Airlines-from-Passenger-Tweets
+# Sentiment-Analysis-and-Classification-of-US-Airlines-Tweets
