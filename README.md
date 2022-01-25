@@ -1,4 +1,5 @@
 # Sentiment-Analysis-and-Classification-of-US-Airlines-Tweets
+![My Image](Social-Sentiment-Analysis.jpg)
 
 ## Project Overview 
 We carry out sentiment analysis on tweets containing the problems of each major U.S. airline. 
